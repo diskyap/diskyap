@@ -19,9 +19,6 @@ I'm a Disky <b style="color: #2B7A0B">from Indonesia.</b> I like technology espe
 <img src=https://img.shields.io/badge/discord-%231E77B5.svg?&style=for-the-badge&logo=discord&logoColor=white alt=linkedin style="margin-bottom: 1px; margin-left: 5px" />
 </a>
 
-<a href="https://discord.com/#1161" target="_blank">
-<img src=https://img.shields.io/badge/discord-%231E77B5.svg?&style=for-the-badge&logo=discord&logoColor=white alt=linkedin style="margin-bottom: 1px; margin-left: 5px" />
-</a>
 
 </td></tr></table>
 
