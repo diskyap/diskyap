@@ -1,10 +1,10 @@
 </br>
 
-## Hey 👋, I'm Disky Adit Prastio
+## Hello 👋, welcome in my profile
 
 ### About Me
 
-I'm a Disky <b style="color: #2B7A0B">from Indonesia.</b> I like technology especially Web, Api specialist backend, I usually use Node.js Express for the Backend, for database integration I usually use MySQL and MongoDB. but I like to learn new things in software testing. has become my passion surfing in the world of technology.
+I'm a Disky <b style="color: #2B7A0B">From Indonesia.</b> I like technology especially Web, Api specialist backend, I usually use Node.js Express for backend, for database integration I usually use MySQL and MongoDB. but <br> i like to learn new things especially in software testing i am quite deep in the field(QA) especially automation test i am used tools like Postman(api), Selenium(Web), Katalon, Cypress, Jenkins(ci/cd), Jmeter(performance test) Jira and Trello for management projects . has become my passion surfing in the world of technology.
 </br>
 
 <a href="https://github.com/diskyap" target="_blank">
@@ -25,22 +25,22 @@ I'm a Disky <b style="color: #2B7A0B">from Indonesia.</b> I like technology espe
 <br/>
 
 ## Languages & Tools
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="75" />
-</div>
-
-</div>
-
+👉 JavaScript <br>
+👉 Python <br>
+👉 Bash <br>
+👉 Jira <br>
+👉 Trello <br>
+👉 Katalon <br>
+👉 Selenium <br>
+👉 Cypress <br>
+👉 Postman <br>
+👉 Docker <br>
+👉 Jmeter <br>
 <br/>
 
+## Operating System
+🫰 Linux ubuntu, debian <br>
+🫰 windows 10, 11 <br>
 ## Github Stats
 
 <table><tr><td valign="top" width="50%">
