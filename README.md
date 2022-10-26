@@ -28,6 +28,7 @@ I'm a Disky <b style="color: #2B7A0B">From Indonesia.</b> I like technology espe
 👉 JavaScript <br>
 👉 Python <br>
 👉 Bash <br>
+👉 VScode <br>
 👉 Jira <br>
 👉 Trello <br>
 👉 Katalon <br>
