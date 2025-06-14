@@ -4,7 +4,10 @@
 
 ### About Me
 
-I'm a Disky <b style="color: #2B7A0B">From Indonesia.</b> I like technology especially Web, Api specialist backend, I usually use Node.js Express for backend, for database integration I usually use MySQL and MongoDB. but <br> i like to learn new things especially in software testing i am quite deep in the field(QA) especially automation test i am used tools like Postman(api), Selenium(Web), Katalon, Cypress, Jenkins(ci/cd), Jmeter(performance test) Jira and Trello for management projects . has become my passion surfing in the world of technology.
+Hi, I'm a Disky From Indonesia.
+QA Manual & Automation Engineer | 2+ Years of Experience | API, Web & Mobile 🚀
+
+Passionate QA Engineer with 2+ years of experience in manual and automation testing, specializing in test planning, test case design, and CI/CD-integrated test automation. Skilled in WebDriverIO, Playwright, Cypress, Selenium, JIRA, GitLab/GitHub/jenkins CI/CD, and Allure Reporting, with a strong focus on delivering high-quality, finding critical issues early and implementing sustainable testing solutions.
 </br>
 
 <a href="https://github.com/diskyap" target="_blank">
