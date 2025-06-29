@@ -45,12 +45,7 @@ Passionate QA Engineer with 2+ years of experience in manual and automation test
 ## Operating System
 🫰 Linux ubuntu, debian <br>
 🫰 windows 10, 11 <br>
-## Github Stats
 
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=diskyap&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
+<table><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diskyap&hide_border=true&layout=compact" align="left" style="width: 100%" />
