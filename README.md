@@ -45,5 +45,3 @@ Passionate QA Engineer with 2+ years of experience in manual and automation test
 ## Operating System
 🫰 Linux ubuntu, debian <br>
 🫰 windows 10, 11 <br>
-
-<table><td valign="top" width="50%">
