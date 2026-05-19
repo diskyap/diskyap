@@ -1,47 +1,33 @@
-</br>
+<h1 align="center">Hi 👋, I'm DISKY ADIT PRASTIO</h1>
+<h3 align="center">QA Automation Engineer from Indonesia</h3>
 
-## Hello 👋, welcome in my profile
+🔍 QA Engineer **with 3+ years of experience** in manual and automation testing
+across web, mobile, and API platforms within enterprise-scale environments. Experienced in
+building scalable automation frameworks using Python, Type Script, Pytest, Selenium,
+Appium and WebdriverIO, with hands-on involvement in CI/​CD pipelines and automated
+regression testing. Strong understanding of SDLC, Agile methodologies, API validation, and
+quality engineering practices with a passion for improving software reliability and user
+experience.
 
-### About Me
+- 💼 Currently working as an **QA Engineer** with experience in both WEB, API and Mobile app testing
+- 🧪 Skilled in creating robust automation frameworks using **Selenium WebDriver**, **Cypress**, **Playwright**, **Appium**, **Pytest**, **TestNG**, **JUnit** and **Allure report**
+- 📈 Proficient in **API testing** using **Postman** and **performance testing** with **JMeter/k6**
+- 🔄 Experience with  test case management, and defect tracking tools
+- 🌱 Continuously upgrading skills in test automation and CI/CD integration
+- 💬 Ask me about **Automation Frameworks, Bug Reporting, Test Strategies**
+- 📫 Reach me at: **diskyadit03@gmail.com**
 
-Hi, I'm a Disky From Indonesia.
-QA Manual & Automation Engineer | 2+ Years of Experience | API, Web & Mobile 🚀
+---
 
-Passionate QA Engineer with 2+ years of experience in manual and automation testing, specializing in test planning, test case design, and CI/CD-integrated test automation. Skilled in WebDriverIO, Playwright, Cypress, Selenium, JIRA, GitLab/GitHub/jenkins CI/CD, and Allure Reporting, with a strong focus on delivering high-quality, finding critical issues early and implementing sustainable testing solutions.
-</br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/disky-adit-prastio-748b23207/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
 
-<a href="https://github.com/diskyap" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 1px; margin-left: 5px"" />
-</a>
+---
 
-<a href="https://linkedin.com/in/disky-adit-prastio-748b23207/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 1px; margin-left: 5px"" />
-</a>
-
-<a href="https://discord.com/#1161" target="_blank">
-<img src=https://img.shields.io/badge/discord-%231E77B5.svg?&style=for-the-badge&logo=discord&logoColor=white alt=linkedin style="margin-bottom: 1px; margin-left: 5px" />
-</a>
-
-
-</td></tr></table>
-
-<br/>
-
-## Languages & Tools
-👉 JavaScript <br>
-👉 Python <br>
-👉 Bash <br>
-👉 VScode <br>
-👉 Jira <br>
-👉 Trello <br>
-👉 Katalon <br>
-👉 Selenium <br>
-👉 Cypress <br>
-👉 Postman <br>
-👉 Docker <br>
-👉 Jmeter <br>
-<br/>
-
-## Operating System
-🫰 Linux ubuntu, debian <br>
-🫰 windows 10, 11 <br>
+<h3 align="left">Languages and Tools:</h3>
+  Python, Java, JavaScript, TypeScript, C, C++, Jira, BugMagnet
+</p>
