@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DISKY ADIT PRASTIO</h1>
-<h3 align="center">QA Automation Engineer from Indonesia</h3>
+<h3 align="center">QA Engineer from Indonesia</h3>
 
 🔍 QA Engineer **with 3+ years of experience** in manual and automation testing
 across web, mobile, and API platforms within enterprise-scale environments. Experienced in
